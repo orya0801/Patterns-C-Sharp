@@ -1,0 +1,13 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\obj\Debug\netcoreapp3.1\Ex10_Decorator.csprojAssemblyReference.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\obj\Debug\netcoreapp3.1\Ex10_Decorator.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\obj\Debug\netcoreapp3.1\Ex10_Decorator.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\obj\Debug\netcoreapp3.1\Ex10_Decorator.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\bin\Debug\netcoreapp3.1\Ex10_Decorator.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\bin\Debug\netcoreapp3.1\Ex10_Decorator.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\bin\Debug\netcoreapp3.1\Ex10_Decorator.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\bin\Debug\netcoreapp3.1\Ex10_Decorator.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\bin\Debug\netcoreapp3.1\Ex10_Decorator.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\bin\Debug\netcoreapp3.1\Ex10_Decorator.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\obj\Debug\netcoreapp3.1\Ex10_Decorator.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\obj\Debug\netcoreapp3.1\Ex10_Decorator.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex10_Decorator\obj\Debug\netcoreapp3.1\Ex10_Decorator.genruntimeconfig.cache

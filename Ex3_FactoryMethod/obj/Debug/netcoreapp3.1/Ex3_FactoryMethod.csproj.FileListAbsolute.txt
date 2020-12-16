@@ -1,0 +1,13 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\bin\Debug\netcoreapp3.1\Ex3_FactoryMethod.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\bin\Debug\netcoreapp3.1\Ex3_FactoryMethod.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\bin\Debug\netcoreapp3.1\Ex3_FactoryMethod.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\bin\Debug\netcoreapp3.1\Ex3_FactoryMethod.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\bin\Debug\netcoreapp3.1\Ex3_FactoryMethod.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\bin\Debug\netcoreapp3.1\Ex3_FactoryMethod.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\obj\Debug\netcoreapp3.1\Ex3_FactoryMethod.csprojAssemblyReference.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\obj\Debug\netcoreapp3.1\Ex3_FactoryMethod.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\obj\Debug\netcoreapp3.1\Ex3_FactoryMethod.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\obj\Debug\netcoreapp3.1\Ex3_FactoryMethod.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\obj\Debug\netcoreapp3.1\Ex3_FactoryMethod.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\obj\Debug\netcoreapp3.1\Ex3_FactoryMethod.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex3_FactoryMethod\obj\Debug\netcoreapp3.1\Ex3_FactoryMethod.genruntimeconfig.cache

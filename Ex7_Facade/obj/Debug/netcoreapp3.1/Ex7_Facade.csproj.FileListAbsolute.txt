@@ -1,0 +1,12 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\obj\Debug\netcoreapp3.1\Ex7_Facade.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\obj\Debug\netcoreapp3.1\Ex7_Facade.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\obj\Debug\netcoreapp3.1\Ex7_Facade.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\bin\Debug\netcoreapp3.1\Ex7_Facade.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\bin\Debug\netcoreapp3.1\Ex7_Facade.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\bin\Debug\netcoreapp3.1\Ex7_Facade.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\bin\Debug\netcoreapp3.1\Ex7_Facade.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\bin\Debug\netcoreapp3.1\Ex7_Facade.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\bin\Debug\netcoreapp3.1\Ex7_Facade.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\obj\Debug\netcoreapp3.1\Ex7_Facade.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\obj\Debug\netcoreapp3.1\Ex7_Facade.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex7_Facade\obj\Debug\netcoreapp3.1\Ex7_Facade.genruntimeconfig.cache

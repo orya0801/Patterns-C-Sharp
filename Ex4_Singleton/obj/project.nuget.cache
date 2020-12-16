@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTBFFCW+3kXn1f96PaOqmIzsZ6IAby/9MAi/PYb3uvWVq/vQM05E7Lo54N2/0gqObKL5dsEX1maqer1cZ0FjRw==",
+  "success": true,
+  "projectFilePath": "E:\\Проектирование ИКС\\Задания на практические занятия\\Задания\\Ex4_Singleton\\Ex4_Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

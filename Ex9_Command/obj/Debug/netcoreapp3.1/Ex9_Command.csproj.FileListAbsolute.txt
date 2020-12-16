@@ -1,0 +1,13 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\bin\Debug\netcoreapp3.1\Ex9_Command.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\bin\Debug\netcoreapp3.1\Ex9_Command.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\bin\Debug\netcoreapp3.1\Ex9_Command.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\bin\Debug\netcoreapp3.1\Ex9_Command.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\bin\Debug\netcoreapp3.1\Ex9_Command.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\bin\Debug\netcoreapp3.1\Ex9_Command.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\obj\Debug\netcoreapp3.1\Ex9_Command.csprojAssemblyReference.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\obj\Debug\netcoreapp3.1\Ex9_Command.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\obj\Debug\netcoreapp3.1\Ex9_Command.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\obj\Debug\netcoreapp3.1\Ex9_Command.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\obj\Debug\netcoreapp3.1\Ex9_Command.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\obj\Debug\netcoreapp3.1\Ex9_Command.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex9_Command\obj\Debug\netcoreapp3.1\Ex9_Command.genruntimeconfig.cache

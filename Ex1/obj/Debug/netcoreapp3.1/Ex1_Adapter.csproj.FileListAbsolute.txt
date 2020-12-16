@@ -1,0 +1,13 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\bin\Debug\netcoreapp3.1\Ex1_Adapter.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\bin\Debug\netcoreapp3.1\Ex1_Adapter.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\bin\Debug\netcoreapp3.1\Ex1_Adapter.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\bin\Debug\netcoreapp3.1\Ex1_Adapter.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\bin\Debug\netcoreapp3.1\Ex1_Adapter.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\bin\Debug\netcoreapp3.1\Ex1_Adapter.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\obj\Debug\netcoreapp3.1\Ex1_Adapter.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\obj\Debug\netcoreapp3.1\Ex1_Adapter.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\obj\Debug\netcoreapp3.1\Ex1_Adapter.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\obj\Debug\netcoreapp3.1\Ex1_Adapter.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\obj\Debug\netcoreapp3.1\Ex1_Adapter.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\obj\Debug\netcoreapp3.1\Ex1_Adapter.genruntimeconfig.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex1\obj\Debug\netcoreapp3.1\Ex1_Adapter.csprojAssemblyReference.cache

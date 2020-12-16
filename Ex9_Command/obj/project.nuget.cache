@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nk3QXL0X0JqqlOowP2U8E4H1aB6uOAC9IJq7cisdoaCoLB8XC9es995BmQwxd+3Ztx9VKqUX5ygSiHbcwGJ7bw==",
+  "success": true,
+  "projectFilePath": "E:\\Проектирование ИКС\\Задания на практические занятия\\Задания\\Ex9_Command\\Ex9_Command.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

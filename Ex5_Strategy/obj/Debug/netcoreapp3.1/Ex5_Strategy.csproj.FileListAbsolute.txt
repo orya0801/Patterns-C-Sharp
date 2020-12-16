@@ -1,0 +1,13 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\obj\Debug\netcoreapp3.1\Ex5_Strategy.csprojAssemblyReference.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\obj\Debug\netcoreapp3.1\Ex5_Strategy.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\obj\Debug\netcoreapp3.1\Ex5_Strategy.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\obj\Debug\netcoreapp3.1\Ex5_Strategy.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\bin\Debug\netcoreapp3.1\Ex5_Strategy.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\bin\Debug\netcoreapp3.1\Ex5_Strategy.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\bin\Debug\netcoreapp3.1\Ex5_Strategy.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\bin\Debug\netcoreapp3.1\Ex5_Strategy.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\bin\Debug\netcoreapp3.1\Ex5_Strategy.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\bin\Debug\netcoreapp3.1\Ex5_Strategy.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\obj\Debug\netcoreapp3.1\Ex5_Strategy.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\obj\Debug\netcoreapp3.1\Ex5_Strategy.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex5_Strategy\obj\Debug\netcoreapp3.1\Ex5_Strategy.genruntimeconfig.cache

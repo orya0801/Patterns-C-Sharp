@@ -1,0 +1,13 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\bin\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\bin\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\bin\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\bin\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\bin\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\bin\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\obj\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.csprojAssemblyReference.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\obj\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\obj\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\obj\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\obj\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\obj\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex8_ChainOfResponsibility\obj\Debug\netcoreapp3.1\Ex8_ChainOfResponsibility.genruntimeconfig.cache

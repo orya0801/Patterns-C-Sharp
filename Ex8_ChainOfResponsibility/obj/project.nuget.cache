@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g47dPNHadvAuagSaYzAF4TxVuEyPiQb/+4v0fU5gDZJT8Lt6aPWQepMXuMIDiM118inhx4pFS0yoYv6RMNIkqw==",
+  "success": true,
+  "projectFilePath": "E:\\Проектирование ИКС\\Задания на практические занятия\\Задания\\Ex8_ChainOfResponsibility\\Ex8_ChainOfResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/TsmoU88qAWqq+19QKJ9tCdvn2LgcYA0SXSBul04uP7ZJatrfml/XQowQmszKk8Xb/6EB4pK1/tBUpb3BgaLgA==",
+  "success": true,
+  "projectFilePath": "E:\\Проектирование ИКС\\Задания на практические занятия\\Задания\\Ex5_Strategy\\Ex5_Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

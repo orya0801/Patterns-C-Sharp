@@ -1,0 +1,12 @@
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\bin\Debug\netcoreapp3.1\Ex4_Singleton.exe
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\bin\Debug\netcoreapp3.1\Ex4_Singleton.deps.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\bin\Debug\netcoreapp3.1\Ex4_Singleton.runtimeconfig.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\bin\Debug\netcoreapp3.1\Ex4_Singleton.runtimeconfig.dev.json
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\bin\Debug\netcoreapp3.1\Ex4_Singleton.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\bin\Debug\netcoreapp3.1\Ex4_Singleton.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\obj\Debug\netcoreapp3.1\Ex4_Singleton.AssemblyInfoInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\obj\Debug\netcoreapp3.1\Ex4_Singleton.AssemblyInfo.cs
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\obj\Debug\netcoreapp3.1\Ex4_Singleton.csproj.CoreCompileInputs.cache
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\obj\Debug\netcoreapp3.1\Ex4_Singleton.dll
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\obj\Debug\netcoreapp3.1\Ex4_Singleton.pdb
+E:\Проектирование ИКС\Задания на практические занятия\Задания\Ex4_Singleton\obj\Debug\netcoreapp3.1\Ex4_Singleton.genruntimeconfig.cache
